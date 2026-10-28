@@ -44,6 +44,12 @@ Se hicieron además comprobaciones de interfaz durante el desarrollo local. Tras
 
 También se abrió la navegación de empresas, entrevistas, estadísticas, contactos y asistente. Se restablecieron los datos de ejemplo tras las pruebas para retirar los registros creados durante la verificación. Estas comprobaciones no afirman que se hayan probado todos los dispositivos o todas las combinaciones posibles.
 
+### Alineación del campo Estado
+
+Tras el aviso sobre la posición del campo Estado se eliminó el margen superior fijo de los botones de filtro y se alinearon los controles por su borde inferior. Los campos de una línea y los botones de filtro tienen 42 px de altura. El ajuste se guardó directamente en la hoja de estilos de la capa de Figma y en la fuente de este repositorio.
+
+Se midieron los elementos renderizados en el enlace de presentación: Buscar por empresa, Estado, Aplicar filtros y Limpiar comparten exactamente la misma posición superior e inferior y la misma altura. En el formulario, Estado y Fecha de postulación también comparten posición y altura. Se seleccionó Pendiente y se comprobó que el listado filtrado conserva su funcionamiento.
+
 ## Materiales de la entrega
 
 El README enlaza ahora al recorrido interactivo. Los PDF y el MP4 base de v1.0 conservan las capturas de las pantallas originales de diseño. Para la demostración final del comportamiento actualizado hay que grabar el nuevo recorrido, con la intervención real de ambos miembros del equipo. El código funcional de Acceso a Datos v1.0 sigue siendo la CLI Java; no se ha sustituido por una aplicación web.
