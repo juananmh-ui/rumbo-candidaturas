@@ -1,0 +1,11 @@
+* text=auto eol=lf
+mvnw text eol=lf
+mvnw.cmd text eol=crlf
+*.java text eol=lf
+*.md text eol=lf
+*.csv text eol=lf
+*.svg text eol=lf
+*.png binary
+*.pdf binary
+*.ttf binary
+*.mp4 binary

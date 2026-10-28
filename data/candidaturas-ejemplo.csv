@@ -1,0 +1,16 @@
+id;titulo;empresa;estado;fechaPostulacion;enlace;notas
+1;Desarrollador Java junior;Indra;pendiente;05/08/2026;https://example.com/ofertas/1;CV enviado desde el portal de empleo
+2;Desarrollador backend;NTT DATA;entrevista;12/08/2026;https://example.com/ofertas/2;Entrevista técnica prevista para octubre
+3;Programador de aplicaciones;Accenture;rechazado;18/08/2026;https://example.com/ofertas/3;Proceso cerrado con respuesta del equipo
+4;Desarrollador Java;Capgemini;aceptado;23/08/2026;https://example.com/ofertas/4;Propuesta recibida y aceptada
+5;Técnico de desarrollo;Inetum;pendiente;29/08/2026;https://example.com/ofertas/5;Pendiente de primera respuesta
+6;Desarrollador de interfaces;Indra;entrevista;04/09/2026;https://example.com/ofertas/6;Preparar ejemplos de JavaFX
+7;Programador full stack;NTT DATA;rechazado;10/09/2026;https://example.com/ofertas/7;Se solicitaba más experiencia
+8;Desarrollador de software;Accenture;aceptado;16/09/2026;https://example.com/ofertas/8;Oferta aceptada tras entrevista final
+9;Backend Java junior;Capgemini;entrevista;22/09/2026;https://example.com/ofertas/9;Revisar colecciones y acceso a datos
+10;Programador de servicios;Inetum;rechazado;29/09/2026;https://example.com/ofertas/10;Proceso finalizado
+11;Desarrollador JavaFX;Indra;aceptado;03/10/2026;https://example.com/ofertas/11;Confirmación recibida por correo
+12;Desarrollador de APIs;NTT DATA;pendiente;09/10/2026;https://example.com/ofertas/12;Candidatura enviada con portfolio
+13;Dev Java;Indra;pendiente;17/10/2026;https://example.com/ofertas/13;Preparar una carta de presentación específica
+14;Analista programador junior;Capgemini;entrevista;22/10/2026;https://example.com/ofertas/14;Entrevista online el 30 de octubre
+15;Programador de integración;Accenture;rechazado;27/10/2026;https://example.com/ofertas/15;Se cerró la vacante

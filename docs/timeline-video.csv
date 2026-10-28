@@ -1,0 +1,40 @@
+inicio;fin;escena;equipo
+00:00;00:12;Presentación del equipo;Oscar Ramírez Toro · Juan Antonio Moreno Hevilla
+00:12;00:24;Alcance de v1.0;Oscar Ramírez Toro · Juan Antonio Moreno Hevilla
+00:24;00:49;Importar 15 candidaturas;Oscar Ramírez Toro · Juan Antonio Moreno Hevilla
+00:49;01:17;Listar todas las candidaturas;Oscar Ramírez Toro · Juan Antonio Moreno Hevilla
+01:17;01:41;Combinar filtros de estado y empresa;Oscar Ramírez Toro · Juan Antonio Moreno Hevilla
+01:41;02:05;Consultar todos los datos de la candidatura #13;Oscar Ramírez Toro · Juan Antonio Moreno Hevilla
+02:05;02:31;Añadir una nueva candidatura;Oscar Ramírez Toro · Juan Antonio Moreno Hevilla
+02:31;02:49;Comprobar la persistencia del alta #16;Oscar Ramírez Toro · Juan Antonio Moreno Hevilla
+02:49;03:05;Borrar la candidatura #13;Oscar Ramírez Toro · Juan Antonio Moreno Hevilla
+03:05;03:21;Consultar un ID que ya no existe;Oscar Ramírez Toro · Juan Antonio Moreno Hevilla
+03:21;03:39;Rechazar una fecha imposible;Oscar Ramírez Toro · Juan Antonio Moreno Hevilla
+03:39;03:57;Rechazar una importación con IDs duplicados;Oscar Ramírez Toro · Juan Antonio Moreno Hevilla
+03:57;04:09;Figma: listado con resumen y filtros;Oscar Ramírez Toro · Juan Antonio Moreno Hevilla
+04:09;04:19;Filtrar por empresa y estado;Oscar Ramírez Toro · Juan Antonio Moreno Hevilla
+04:19;04:31;Detalle con empresa, entrevistas y notas;Oscar Ramírez Toro · Juan Antonio Moreno Hevilla
+04:31;04:40;Abrir el formulario de nueva candidatura;Oscar Ramírez Toro · Juan Antonio Moreno Hevilla
+04:40;04:49;Ver los mensajes de validación;Oscar Ramírez Toro · Juan Antonio Moreno Hevilla
+04:49;04:58;Completar los datos de ejemplo;Oscar Ramírez Toro · Juan Antonio Moreno Hevilla
+04:58;05:07;Confirmar el alta de la candidatura;Oscar Ramírez Toro · Juan Antonio Moreno Hevilla
+05:07;05:16;Editar el estado de una candidatura;Oscar Ramírez Toro · Juan Antonio Moreno Hevilla
+05:16;05:24;Ver la confirmación del cambio;Oscar Ramírez Toro · Juan Antonio Moreno Hevilla
+05:24;05:35;Consultar la gestión de empresas;Oscar Ramírez Toro · Juan Antonio Moreno Hevilla
+05:35;05:43;Abrir el formulario de empresa;Oscar Ramírez Toro · Juan Antonio Moreno Hevilla
+05:43;05:54;Gestionar la agenda de entrevistas;Oscar Ramírez Toro · Juan Antonio Moreno Hevilla
+05:54;06:02;Programar una entrevista;Oscar Ramírez Toro · Juan Antonio Moreno Hevilla
+06:02;06:15;Explorar estadísticas: vista prevista para v3.0;Oscar Ramírez Toro · Juan Antonio Moreno Hevilla
+06:15;06:26;Asistente IA: integración diseñada para v3.0;Oscar Ramírez Toro · Juan Antonio Moreno Hevilla
+06:26;06:38;Mostrar la carta de presentación de ejemplo;Oscar Ramírez Toro · Juan Antonio Moreno Hevilla
+06:38;06:47;Simular un error de conexión con Ollama;Oscar Ramírez Toro · Juan Antonio Moreno Hevilla
+06:47;06:55;Consultar notas e historial;Oscar Ramírez Toro · Juan Antonio Moreno Hevilla
+06:55;07:03;Gestionar contactos profesionales;Oscar Ramírez Toro · Juan Antonio Moreno Hevilla
+07:03;07:13;Confirmar el borrado antes de eliminar;Oscar Ramírez Toro · Juan Antonio Moreno Hevilla
+07:13;07:21;Volver al listado después del borrado;Oscar Ramírez Toro · Juan Antonio Moreno Hevilla
+07:21;07:29;Primer inicio sin datos;Oscar Ramírez Toro · Juan Antonio Moreno Hevilla
+07:29;07:37;Importar el CSV desde el prototipo;Oscar Ramírez Toro · Juan Antonio Moreno Hevilla
+07:37;07:45;Confirmar la importación;Oscar Ramírez Toro · Juan Antonio Moreno Hevilla
+07:45;07:53;Conservar los datos si falla la importación;Oscar Ramírez Toro · Juan Antonio Moreno Hevilla
+07:53;08:07;Manual: colores, tipografía y botones;Oscar Ramírez Toro · Juan Antonio Moreno Hevilla
+08:07;08:21;Cierre y entrega individual;Oscar Ramírez Toro · Juan Antonio Moreno Hevilla

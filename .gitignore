@@ -1,0 +1,10 @@
+/target/
+/.idea/
+*.iml
+/.vscode/
+/data/*.csv
+!/data/candidaturas-ejemplo.csv
+/data/*.txt
+*.tmp
+*.log
+.DS_Store
