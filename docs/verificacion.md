@@ -36,6 +36,12 @@ Las pruebas de importación comprueban que un duplicado o una línea incorrecta 
 
 ## Intervención del equipo
 
+## Publicación
+
+Repositorio público: <https://github.com/juananmh-ui/rumbo-candidaturas>. La entrega técnica se identifica como **v1.0**. Los PDF y la base MP4 se publican como archivos individuales; no se proporciona un ZIP de entrega.
+
+## Intervención del equipo
+
 Se ha generado una base MP4 de **8 minutos y 21 segundos**, con resultados obtenidos al ejecutar el JAR y capturas de las pantallas de Figma. El vídeo no incluye narración de los alumnos; `docs/timeline-video.csv` contiene los tiempos de cada escena.
 
 La verificación técnica no acredita la participación personal de los alumnos. La intervención real de ambos en la grabación y sus contribuciones al repositorio deben incorporarse y registrarse antes de la entrega evaluable.
