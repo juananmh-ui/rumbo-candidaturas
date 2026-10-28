@@ -7,7 +7,7 @@ Rumbo permite registrar y seguir candidaturas de empleo. La entrega **v1.0** es 
 ## Enlaces y entregables individuales
 
 - Repositorio público: <https://github.com/juananmh-ui/rumbo-candidaturas>
-- [Prototipo navegable en Figma](https://www.figma.com/proto/uSeAlEUvQRcLUVO7WOOehq?node-id=2-274&starting-point-node-id=2%3A274&scaling=scale-down&content-scaling=fixed).
+- [Prototipo interactivo en Figma: campos reales, alta, edición y filtros](https://www.figma.com/proto/uSeAlEUvQRcLUVO7WOOehq?node-id=26-1064&starting-point-node-id=26%3A1064&scaling=scale-down&content-scaling=fixed).
 - [Archivo de diseño y componentes en Figma](https://www.figma.com/design/uSeAlEUvQRcLUVO7WOOehq).
 - [Pantallas del prototipo, PDF](docs/Rumbo_Pantallas_del_Prototipo.pdf).
 - [Manual de estilo, PDF](docs/Rumbo_Manual_de_Estilo.pdf).
@@ -26,7 +26,7 @@ Los documentos se entregan por separado. El MP4 es una base técnica con rótulo
 | Interfaz funcional | CLI por argumentos | JavaFX + FXML de Scene Builder desde v2.0 |
 | Base de datos | Ninguna | SQLite prevista desde v2.0 |
 | Pruebas | JUnit 5.13.4 y Mockito 5.20.0 | Ampliación por entrega |
-| Diseño | Figma, 26 pantallas, componentes y manual | Referencia de las futuras pantallas JavaFX |
+| Diseño | Figma, 26 pantallas de diseño, capa de código interactiva, componentes y manual | Referencia de las futuras pantallas JavaFX |
 | Asistente IA | Simulación visual del prototipo | Ollama4j + Ollama local en v3.0 |
 
 La v1.0 no implementa JDBC, Hibernate, JavaFX ni llamadas a un modelo de IA. Las pantallas de empresas, entrevistas, estadísticas, contactos, notas e IA anticipan las próximas entregas. Sus instrucciones de ejecución se incorporarán cuando esas versiones existan.
@@ -142,7 +142,11 @@ La configuración de Mockito utiliza un agente explícito para evitar la autoaso
 
 ## Prototipo y diseño
 
-Hay dos recorridos iniciales en Figma: seguimiento con datos de ejemplo y primera importación desde una lista vacía. La candidatura #13 concentra el recorrido de detalle, edición, notas, asistente y borrado. Los campos usan datos de demostración y simulan el flujo de la futura interfaz; el almacenamiento real de esta entrega corresponde a la CLI.
+El enlace principal abre **Rumbo · Candidaturas interactivas**, un recorrido con una capa de código ejecutable dentro del mismo archivo Figma. Permite escribir datos propios, añadir, consultar cualquier candidatura, editar sus campos, filtrar por empresa y/o estado y borrar con confirmación. Se ha comprobado el recorrido desde el enlace de presentación, incluyendo conservación de filtros al volver y conservación de datos al recargar. Ver [revisión del prototipo](docs/revision-prototipo.md).
+
+El prototipo conserva sus datos en ese navegador; si el entorno impide guardar, muestra un aviso. Importar y exportar CSV permite trasladar candidaturas. Los datos de la vista previa y el archivo de la CLI Java son independientes. La IA sigue siendo una vista de ejemplo de v3.0. El [código de la capa](design/prototipo-interactivo/) y sus 15 pruebas de regresión están incluidos en el repositorio.
+
+Las 26 pantallas originales con capas de diseño y sus dos recorridos de ejemplos se conservan como referencia visual. Los PDF y el MP4 base documentan esas pantallas. Para probar campos reales o grabar la demostración actualizada se debe utilizar el enlace interactivo principal.
 
 El archivo conserva capas de texto editables, componentes de estado, navegación, filas e indicadores, variables semánticas y estilos. Se han reutilizado botones, campos y selectores de Simple Design System de Figma. La identidad de Rumbo, sus colores y el layout se documentan en el manual. Las fuentes Inter y Roboto Mono se incluyen con sus licencias OFL.
 

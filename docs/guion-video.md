@@ -32,7 +32,7 @@ Mostrar un error de fecha o de CSV y señalar que no hay importación parcial ni
 
 ## Parte propuesta para Juan Antonio: prototipo y diseño
 
-Recorrer el Figma pulsando sus botones: listado y filtros; detalle #13; edición y guardado; alta y validación; empresas y formulario; entrevistas y formulario; estadísticas; asistente y respuesta; estado de error; notas y contactos.
+Abrir el enlace interactivo actualizado del README. Escribir una candidatura con datos propios, guardarla y comprobar su detalle. Cambiar su estado, enlace y notas; guardar y volver al listado. Filtrar por su empresa y por el estado editado, limpiar los filtros y comprobar que los datos permanecen. Mostrar la cancelación y confirmación del borrado. Recorrer empresas, entrevistas, estadísticas, contactos y asistente. La base MP4 anterior conserva las pantallas originales; esta demostración actualizada debe grabarse desde Figma.
 
 Explicar brevemente que las vistas de versiones futuras son un prototipo, mientras que el comportamiento implementado en v1.0 está en la CLI. Mostrar el manual y reconocer la misma identidad, tipografía y estados en las pantallas.
 

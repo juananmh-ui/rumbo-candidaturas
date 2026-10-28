@@ -19,3 +19,4 @@ Equipo: **Oscar Ramírez Toro y Juan Antonio Moreno Hevilla**.
 - Las fechas usan dd/MM/yyyy con validación estricta. La empresa se busca por fragmento, ignorando mayúsculas y tildes.
 - Las interfaces de versiones futuras se prototipan, sin fingir que ya están implementadas en Java.
 - La grabación final y las contribuciones personales deben reflejar la participación real del equipo.
+- Tras la revisión, el usuario autorizó campos reales dentro de Figma. Se mantiene el diseño original y se incorpora una capa de código ejecutable; su almacenamiento en el navegador es independiente del archivo Java.

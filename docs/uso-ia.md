@@ -23,6 +23,10 @@ Ante la consulta «¿Tenéis ya código o un repositorio ... o preparo el proyec
 
 Las decisiones de implementación y las comprobaciones se documentan en planning.md, tasks.md y docs/verificacion.md.
 
+## Corrección del prototipo interactivo
+
+El usuario señaló que añadir, editar y filtrar en Figma no se comportaban como esperaba. Autorizó expresamente «campos reales y datos editables dentro de Figma». Con asistencia de IA se preparó e importó una capa de código en el mismo archivo, se añadió un punto de inicio nuevo y se actualizó el enlace del README. Las pruebas del nuevo recorrido y sus límites se registran en `docs/revision-prototipo.md`. Esta corrección asistida tampoco se atribuye como contribución personal no realizada por los alumnos.
+
 ## Revisión del equipo
 
 La comprensión del código, la revisión de decisiones, las contribuciones personales y la narración del vídeo deben ser realizadas y confirmadas por los miembros del equipo antes de la entrega.

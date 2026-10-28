@@ -36,6 +36,8 @@ Las pruebas de importación comprueban que un duplicado o una línea incorrecta 
 
 ## Publicación
 
+La revisión posterior incorporó una capa de código con campos reales y un tercer punto de inicio, que es ahora el enlace principal del README. Se superaron 15 pruebas JavaScript y siete comprobaciones del ciclo de candidaturas desde la presentación de Figma. Ver [revisión del prototipo](revision-prototipo.md). Las 26 pantallas y las capturas originales se conservan como referencia visual.
+
 Repositorio público: <https://github.com/juananmh-ui/rumbo-candidaturas>. La entrega técnica se identifica como **v1.0**. Los PDF y la base MP4 se publican como archivos individuales; no se proporciona un ZIP de entrega.
 
 ## Intervención del equipo
