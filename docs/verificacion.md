@@ -34,8 +34,6 @@ Las pruebas de importación comprueban que un duplicado o una línea incorrecta 
 - Manual de estilo: 13 páginas; paleta, estados, tipografía, logo, controles, tablas, tarjetas, navegación, iconografía, layout y componentes.
 - Las combinaciones de texto y fondo de la paleta se han medido: todas las combinaciones listadas en el manual superan 4,5:1. Esto no equivale a certificar toda la interfaz.
 
-## Intervención del equipo
-
 ## Publicación
 
 Repositorio público: <https://github.com/juananmh-ui/rumbo-candidaturas>. La entrega técnica se identifica como **v1.0**. Los PDF y la base MP4 se publican como archivos individuales; no se proporciona un ZIP de entrega.
